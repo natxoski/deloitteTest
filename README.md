@@ -2,9 +2,8 @@ README
 
 Deloitte Technical Test:
 
-This website has been implemented with Bootstrap4 (even if still is in alpha version 4 at the moment), and ReactJS, and have been checked
-with the following Web Browser: 
-Chrome (Version 60.0.3112.113).
+This website has been implemented with Bootstrap4 (even if still is in alpha version 4 at the moment), and ReactJS, and has been checked
+with the following Web Browser: Chrome (Version 60.0.3112.113).
 
 (In order to make sure that the requirements are met we should verify that the content is still the same on all the other Web Browsers)
  
